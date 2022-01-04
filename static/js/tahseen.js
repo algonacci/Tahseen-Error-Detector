@@ -1,8 +1,4 @@
-// more documentation available at
-// https://github.com/tensorflow/tfjs-models/tree/master/speech-commands
-
-// the link to your model provided by Teachable Machine export panel
-const URL = "https://teachablemachine.withgoogle.com/models/4eazQWEcy/";
+const URL = "https://teachablemachine.withgoogle.com/models/Wt3lNJbah/";
 
 async function createModel() {
   const checkpointURL = URL + "model.json"; // model topology
