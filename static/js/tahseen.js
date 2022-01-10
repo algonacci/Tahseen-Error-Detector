@@ -1,4 +1,4 @@
-const URL = "https://teachablemachine.withgoogle.com/models/Wt3lNJbah/";
+const URL = "https://teachablemachine.withgoogle.com/models/gx_EPWDn0/";
 
 async function createModel() {
   const checkpointURL = URL + "model.json"; // model topology
